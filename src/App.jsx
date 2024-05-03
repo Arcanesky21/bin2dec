@@ -67,7 +67,8 @@ function App() {
             <div id="modal"
                  className="absolute invisible flex inset-0 w-screen justify-center items-center  h-screen ">
 
-                <div className="rounded-md bg-white text-center content-center h-96 w-1/2 absolute items-center">
+                <div
+                    className="rounded-md bg-white text-center content-center h-[22rem] w-[22rem] absolute items-center">
                     <div className="absolute p-5  top-0 right-0">
                         <svg className="cursor-pointer" onClick={handleClose} xmlns="http://www.w3.org/2000/svg" x="0px"
                              y="0px"
