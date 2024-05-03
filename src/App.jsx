@@ -82,7 +82,7 @@ function App() {
                         <header>Your binary value equals</header>
                     </div>
                     <input disabled="true"
-                           className="bg-gray-500 rounded-md text-center uppercase p-5 text-2xl tracking-[0.1em]"
+                           className="bg-gray-500 w-1/2 rounded-md text-center uppercase p-5 text-2xl tracking-[0.1em]"
                            value={validInput}/>
                 </div>
 
